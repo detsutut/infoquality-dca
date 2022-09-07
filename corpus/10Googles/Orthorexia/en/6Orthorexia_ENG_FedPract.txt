@@ -1,0 +1,80 @@
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6370446/
+
+Orthorexia Nervosa: An Obsession With Healthy Eating
+Abstract
+
+Despite a focus on eating, orthorexia nervosa may lead to malnourishment, loss of relationships, and poor quality of life.
+
+First named by Steven Bratman in 1997, orthorexia nervosa (ON) from the Greek ortho, meaning correct, and orexi, meaning appetite, is classified as an unspecified feeding and eating disorder in the Diagnostic and Statistical Manual of Mental Disorders 5th edition (DSM-5).1,2
+Go to:
+HYPOTHETICAL CASE
+
+Mr. P is a 30-year-old male who presented to the mental health clinic with his wife. The patient recounted that he had wanted to “be healthy” since childhood and has focused on exercise and proper diet, but anxiety about diet and food intake have steadily increased. Two years ago, he adopted a vegetarian diet by progressively eliminating several foods and food groups from his diet. He now feels “proud” to eat certain organically grown fruits, vegetables, nuts, beans, and drink only fruit or vegetable juice.
+
+His wife stated that he spent between 3 and 5 hours daily preparing food or talking to friends and family about “correct foods to eat.” He also believed that errors in dietary habits caused physical or mental illnesses. He reported significant guilt and shame whenever he “slips up” on his dietary regimen and eats anything containing seafood, beef, or pork products, which he corrects by a day of fasting. His wife was frustrated because he refused to go to restaurants and started declining offers from friends to eat dinner at their homes unless he could bring his prepared food. He describes feeling “annoyed” when he sees other people eating fast food or meat.
+
+Mr. P reported no significant medical or surgical history. His family history was significant for anxiety in his mother. He used to drink alcohol socially but ceased a few years ago due to its carbohydrate content. He never smoked or used illicit drugs.
+
+A mental status exam revealed a thin male who appeared his stated age. He was cooperative, casually dressed, and made fair eye contact. He spoke clearly with an anxious tone and appropriate rate and volume. His affect was congruent with stated anxious mood. He was alert, awake, and oriented to person, place, and time. He reported no paranoia, auditory or visual hallucinations, and suicidal or homicidal ideation.
+
+A physical exam revealed a thin male in no distress who measured 5 feet 10 inches tall and weighed 145 pounds, which yielded a body mass index of 20.8. His vitals included temperature of 98° F, blood pressure 115/76, pulse 74, and oxygen saturation 98% on room air. The remaining physical examination revealed no abnormalities. A complete blood count, thyroid function, urinalysis, and urine drug screens were within normal limits. Comprehensive metabolic profile revealed decreased sodium of 130 meq/L. Electrocardiogram revealed bradycardia.
+
+An ON diagnosis is made primarily through a clinical interview. Collateral information from individuals familiar with the patient can be helpful. Experts have proposed and recently revised criteria for ON (Table). Although the ORTO-15 assessment tool may assist with diagnosis, the tool does not substitute for the clinical interview.
+Table
+
+Proposed Diagnostic Criteria for Orthorexia Nervosa10
+Criterion A
+Obsessive focus on healthy eating, as defined by a dietary theory or set of beliefs whose specific details may vary; marked by exaggerated emotional distress in relationship to food choices perceived as unhealthy; weight loss may ensue as a result of dietary choices, but this is not the primary goal. As evidenced by the following:
+
+    Compulsive behavior and/or mental preoccupation regarding affirmative and restrictive dietary practices believed by the individual to promote optimum health;
+
+    Violation of self-imposed dietary rules causes exaggerated fear of disease, sense of personal impurity and/or negative physical sensations, accompanied by anxiety and shame;
+
+    Dietary restrictions escalate over time, and may come to include elimination of entire food groups and involve progressively more frequent and/or severe “cleanses” (partial fasts) regarded as purifying or detoxifying. This escalation commonly leads to weight loss, but the desire to lose weight is absent, hidden, or subordinated to ideation about healthy eating.
+
+Criterion B
+The compulsive behavior and mental preoccupation becomes clinically impairing by any of the following:
+
+    Malnutrition, severe weight loss, or other medical complications from restricted diet;
+
+    Intrapersonal distress or impairment of social, academic, or vocational functioning secondary to beliefs or behaviors about healthy diet;
+
+    Positive body image, self-worth, identity and/or satisfaction excessively dependent on compliance with self-defined healthy eating behavior.
+
+Additional features that may confirm a diagnosis of ON include obsessive focus on food choice, planning, purchase, preparation, and consumption; food regarded as source of health rather than pleasure; distress or disgust when in proximity to prohibited foods; exaggerated faith that inclusion or elimination of particular kinds of food can prevent or cure disease or affect daily well-being; periodic shifts in dietary beliefs while other processes persist unchanged; moral judgment of others based on dietary choices; body image distortion around sense of physical impurity rather than weight; persistent belief that dietary practices are health-promoting despite evidence of malnutrition.
+Open in a separate window
+Go to:
+DISCUSSION
+
+There is no reliable measure of prevalence of ON, though Varga and colleagues initially estimated ON to occur in 6.9% of the general population, and ON may occur more frequently in health care professionals and performance artists.3 However, these may be overestimates, as the assessment tool used in the study does not adequately separate people with healthy eating habits from those with ON.4,5
+
+Most prevalence studies were conducted in Europe and Turkey, and prevalence of ON may differ in the U.S. population. A recent assessment determined a prevalence of about 1%, similar to that of other eating disorders.5 No study has reported a correlation between ON and gender, but a survey of 448 college students in the U.S. (mean age 22 years) reported highest ON tendencies in Hispanic/Latino and overweight/obese students.6
+Relationship to Other Illnesses
+
+There is significant debate whether ON is a single syndrome, a variance of other syndromes, or a behavioral and culturally influenced attitude.7,8 Although ON may lead to or be comorbid with anorexia nervosa (AN) or obsessive-compulsive disorder (OCD), subtle differences exist between ON and these conditions.
+
+To meet DSM-5 diagnostic criteria for AN, patients must weigh below minimally normal weight for their height and age, have an intense fear of gaining weight or becoming fat, and have a disturbed experience of their weight or body shape or cannot recognize the severity of the low weight.2 In contrast, an individual with ON may possess normal or low-normal weight. Patients with AN focus on food quantity, while patients with ON tend to focus on food quality. As summarized by Bratman, “People are ashamed of their anorexia, but they actively evangelize their orthorexia. People with anorexia skip meals; people with orthorexia do not (unless they are fasting). Those with anorexia focus only on avoiding foods, while those with orthorexia both avoid foods they think are bad and embrace foods they think are super-healthy.”9
+
+Similarities between ON and OCD include anxiety, a need to exert control, and perfectionism. However, patients with OCD tend to report distress from compulsive behavior and a desire to change, thus exhibiting insight into their illness.8,10 Similarities between obsessive-compulsive personality disorder (OCPD) and ON include perfectionism, rigid thinking, excessive devotion, hypermorality, and a preoccupation with details and perceived rules.11
+
+While no studies have yet described ON as a feature of somatoform disorders, some experts have hypothesized that preoccupation with illness in a patient with somatization disorder may engender a preoccupation with food and diet as a way to combat either real or perceived illness.11 Finally, there is a report of ON associated with the prodromal phase of schizophrenia, and the development of ON may increase risk for future psychotic disorders.11,12
+Pathophysiology
+
+The exact cause of ON is unknown, though it is likely multifactorial. Individuals with ON have neurocognitive deficits similar to those seen in patients with AN and OCD, including impairments in set-shifting (flexible problem solving), external attention, and working memory.11,13 Given these cognitive deficits as well as similar symptomatology, there may be analogous brain dysfunction in patients with ON and AN or OCD. Neuroimaging studies of patients with AN have revealed dysregulation of dopamine transmission in the reward circuitry of the ventral striatum and the food regulatory mechanism in the hypothalamus.14
+
+Dysmorphology of and dysfunction in neural circuitry, particularly the cortico-striato-thalamo-cortical pathway, have been implicated in OCD.15 Neuroimaging studies have revealed increased volume and activation of the orbitofrontal cortex, which may be associated with obsessions and difficulty with extinction recall.14,15 In contrast, decreased volume and activity of the thalamus may impair its ability to inhibit the orbitofrontal cortex.15,16 Decreased volume and activity of the cingulate gyrus may be associated with difficulty in error monitoring and fear conditioning, while overactivation of the parietal lobe and cerebellum may be associated with compulsive behaviors.15,16
+Risk Factors
+
+Factors that contribute to the development of AN and possibly ON include development of food preferences, inherited differences in taste perception, food neophobia or pickiness, being premorbidly overweight or obese, parental feeding practices, and a history of parental eating disorders.14 One survey associated orthorexic tendencies with perfectionism, appearance orientation, overweight preoccupation, self-classified weight, and fearful and dismissing attachment styles.17 Significant predictors of ON included overweight preoccupation, appearance orientation, and a history of an eating disorder.17
+Go to:
+TREATMENT
+
+In contrast to patients with AN, patients with ON may be easily amenable to treatment, given their pursuit of and emphasis on wellness.18 Experts recommend a multidisciplinary team approach that includes physicians, psychotherapists, and dieticians.11 Treatment may be undertaken in an outpatient setting, but hospitalization for refeeding is recommended in cases with significant weight loss or malnourishment. 11 Physical examination and laboratory studies are warranted, as excessive dietary restrictions can lead to weight loss and medical complications similar to those seen in AN, including osteopenia, anemia, hyponatremia, pancytopenia, bradycardia, and even pneumothorax and pneumomediastinum.19–21
+
+There are no reported studies exploring the efficacy of psychotherapy or psychotropic medications for patients with ON. However, several treatments have been proposed given the symptom overlap with AN. Serotonin reuptake inhibitors may be beneficial for anxiety and obsessive-compulsive traits.18 However, patients with ON may refuse medications as unnatural substances.18
+
+Cognitive behavioral therapy may be beneficial to address perfectionism and cognitive distortions, and exposure and response prevention may reduce obsessive-compulsive behaviors. 11 Relaxation therapy may reduce mealtime anxiety. Psychoeducation may correct inaccurate beliefs about food groups, purity, and preparation, but it may induce emotional stress for the patient with ON.11
+Go to:
+CONCLUSION
+
+Orthorexia nervosa is perhaps best summarized as an obsession with healthy eating with associated restrictive behaviors. However, the attempt to attain optimum health through attention to diet may lead to malnourishment, loss of relationships, and poor quality of life.11 It is a little-understood disorder with uncertain etiology, imprecise assessment tools, and no formal diagnostic criteria or classification. Orthorexic characteristics vary from normal to pathologic in degree, and making a diagnosis remains a clinical judgment. 22 Further research is needed to develop valid diagnostic tools and determining whether ON should be classified as a unique illness or a variation of other eating or anxiety disorders. Further research also may identify the etiology of ON, thus enabling targeted multidisciplinary treatment.
